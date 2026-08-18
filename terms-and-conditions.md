@@ -9,7 +9,7 @@ By accessing, registering for, or using our Services, you agree to be bound by t
 ## 1. User Accounts and Eligibility
 
 ### 1.1 Age Requirements
-* **General Access:** You must be at least 13 years old (or 16 years old depending on your local jurisdiction, such as within the EU) to create an account and use the Services. 
+* **General Access:** You must be at least 13 years old (or 16 years old depending on your local jurisdiction, such as within the EU) to create an account and use the Services.
 * **NSFW Content:** To view, search, or upload Not Safe for Work (NSFW) or mature content, you must be at least **18 years of age**. Falsely representing your age to bypass this restriction is a strict violation of these Terms and will result in immediate account termination.
 
 ### 1.2 Account Security
@@ -21,7 +21,7 @@ You are responsible for maintaining the confidentiality of your login credential
 Meisaku claims **no ownership rights** over the artworks, images, text, or other content ("User Content") that you upload to the platform. You retain all copyrights and intellectual property rights to your work.
 
 ### 2.2 License to Meisaku
-By uploading User Content, you grant Meisaku a worldwide, non-exclusive, royalty-free license to host, store, display, reproduce, and distribute your content solely for the purpose of operating, maintaining, and promoting the Services. 
+By uploading User Content, you grant Meisaku a worldwide, non-exclusive, royalty-free license to host, store, display, reproduce, and distribute your content solely for the purpose of operating, maintaining, and promoting the Services.
 
 ### 2.3 Strict "No AI Training" Policy
 * **Our Guarantee:** Meisaku will never use, sell, or license your User Content to train artificial intelligence (AI) models, machine learning algorithms, or generative image systems.
@@ -38,8 +38,8 @@ By using Meisaku, you agree not to:
 
 ## 4. NSFW Content Guidelines
 
-Meisaku allows the posting of NSFW and mature content, provided it is legal and adheres to our community guidelines. 
-* All NSFW content **must be properly tagged** and categorized upon upload. 
+Meisaku allows the posting of NSFW and mature content, provided it is legal and adheres to our community guidelines.
+* All NSFW content **must be properly tagged** and categorized upon upload.
 * Attempting to bypass the age-gate or deliberately mislabeling NSFW content as Safe for Work (SFW) may result in content removal or account suspension.
 
 ## 5. Payments and Transactions
@@ -65,7 +65,7 @@ We reserve the right to suspend or terminate your account and access to the Serv
 ## 8. Disclaimers and Limitation of Liability
 
 * **"As Is" Service:** The Services are provided on an "AS IS" and "AS AVAILABLE" basis. Meisaku makes no warranties, express or implied, regarding the reliability, availability, or performance of the platform.
-* **Data Loss:** While we employ robust security and backup measures, we are not liable for any loss of data or User Content. You are encouraged to keep backups of your artwork.
+* **Data Loss:** While we employ strong security and backup measures, we are not liable for any loss of data or User Content. You are encouraged to keep backups of your artwork.
 * **Liability:** To the maximum extent permitted by law, Meisaku shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the Services.
 
 ## 9. Governing Law
