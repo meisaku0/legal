@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Effective Date:** August 18, 2026 | **Last Updated:** August 18, 2026
+**Effective Date:** August 18, 2026 | **Last Updated:** November 23, 2026
 
 Welcome to Meisaku ("we," "our," or "us"). These Terms and Conditions ("Terms") govern your access to and use of the Meisaku website (https://meisaku.art), services, and community features (collectively, the "Services").
 
@@ -41,6 +41,7 @@ By using Meisaku, you agree not to:
 Meisaku allows the posting of NSFW and mature content, provided it is legal and adheres to our community guidelines.
 * All NSFW content **must be properly tagged** and categorized upon upload.
 * Attempting to bypass the age-gate or deliberately mislabeling NSFW content as Safe for Work (SFW) may result in content removal or account suspension.
+* We reserve the right to reject, remove, or restrict any artwork tagged R18G if it is deemed too explicit and/or excessively brutal or graphic. Our moderation decisions regarding R18G content may be made at our sole discretion where the content poses a significant risk to the safety or comfort of our community.
 
 ## 5. Payments and Transactions
 

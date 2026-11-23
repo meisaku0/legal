@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** August 18, 2026 | **Last Updated:** August 18, 2026
+**Effective Date:** August 18, 2026 | **Last Updated:** November 23, 2026
 
 Welcome to Meisaku ("we," "our," or "us"). We are committed to protecting your privacy and keeping the platform secure and creator-friendly when you use our website (https://meisaku.art), services, and community features (collectively, the "Services").
 
@@ -17,7 +17,12 @@ This Privacy Policy explains how we collect, use, and protect your information, 
 * **Artworks and Media:** We collect the images and content you upload.
 * **Privacy by Design (EXIF Stripping):** To protect your privacy and physical location, our system automatically strips and deletes all EXIF data and hidden metadata (such as GPS coordinates and software details) from your image files upon upload. The files stored on our servers are completely clean.
 
-### 1.3 Payment Information
+### 1.3 Activity and Event Analytics
+We collect limited event data about interactions you make while using the Services, such as page or feature use, artwork-related actions, account actions, navigation events, and interactions with platform controls. These events help us understand how the Services are used, improve features, diagnose technical issues, evaluate performance, and prevent abuse.
+
+We may associate event data with a user ID, session identifier, or device or browser identifier when needed to provide and improve the Services or understand usage. We do not use this event data to track you across unrelated websites or services.
+
+### 1.4 Payment Information
 If you make purchases, buy premium subscriptions, or engage in artist commissions, your payments are processed entirely through secure third-party payment gateways (such as Stripe or PayPal). **We do not collect or store your full credit card numbers or financial details on our servers.**
 
 ## 2. How We Use Your Information
@@ -26,7 +31,9 @@ If you make purchases, buy premium subscriptions, or engage in artist commission
 We use your information to manage your account, host your portfolios, and provide access to the platform.
 
 ### 2.2 Privacy-Focused Analytics
-We use privacy-friendly analytics tools (similar to Umami) to understand broad website traffic and performance trends. These tools do not use invasive third-party tracking cookies and do not track your activity across other websites.
+We use privacy-focused analytics tools (similar to Umami) to understand website traffic, platform usage, feature interactions, and performance trends. We collect event data only for legitimate product and security purposes, such as debugging, measuring feature use, improving the Services, and preventing abuse.
+
+These tools do not use invasive third-party tracking cookies or sell your event data. We do not use event analytics to track your activity across unrelated websites or services.
 
 ### 2.3 Strict "No AI Training" Guarantee
 We respect artists' rights. **We do not use, and will never use, any user-uploaded artwork, text, or content to train artificial intelligence (AI) models, machine learning algorithms, or generative image systems.** Furthermore, we do not sell or license your content to third parties for the purpose of AI training.
