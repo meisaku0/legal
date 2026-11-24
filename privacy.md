@@ -11,7 +11,7 @@ This Privacy Policy explains how we collect, use, and protect your information, 
 ### 1.1 Information You Provide to Us
 * **Account Credentials:** When you register, we collect your email address, username, and password.
 * **Social Logins:** If you choose to register or log in using a third-party social media account (e.g., Google, Discord, X), we receive and store your unique User ID from that platform solely to authenticate your account for future logins. We do not pull or store your contacts or post on your behalf.
-* **Age Verification:** We collect your date of birth to comply with international child safety laws and to gate age-restricted content.
+* **Optional Age Information:** We do not currently require a date of birth during registration. If you choose to provide one later in your profile or to another age-related feature, we will use it only for age enforcement and applicable legal compliance. You may choose not to provide this information unless it is separately required for a feature that cannot operate without it.
 
 ### 1.2 User-Generated Content and Metadata
 * **Artworks and Media:** We collect the images and content you upload.
@@ -47,20 +47,23 @@ We respect artists' rights. **We do not use, and will never use, any user-upload
 
 Meisaku operates globally, and our primary servers and secure object storage infrastructure are located in **Japan**. By using our Services, you understand and agree that your personal information and uploaded content will be transferred to, stored, and processed in Japan. We use secure environments to isolate and protect your data and handle it in accordance with this Privacy Policy and applicable international data protection standards.
 
-## 5. Age Requirements and NSFW Content
+## 5. Adults-Only Service
 
-* **General Access:** You must be at least 13 years old (or 16 years old in the European Economic Area) to create an account and use the base platform.
-* **Age-Restricted Content (NSFW):** Meisaku hosts both Safe for Work (SFW) and Not Safe for Work (NSFW) content. Access to view, search, or upload NSFW content is strictly limited to users who are **18 years of age or older**. We employ strict age-gating mechanisms, and falsely representing your age to access restricted content is a violation of our Terms of Service.
+* **Minimum Age:** You must be at least **18 years old** to access, register for, or use any part of the Services, including viewing, searching, uploading, and messaging.
+* **Age Assurance:** At present, access is based on account registration and the user's declaration that they are at least 18. We do not currently require date-of-birth verification at registration. If we introduce age-verification tools or you voluntarily provide age information, we will describe the applicable processing in this Policy. If we reasonably believe that an account belongs to someone under 18, we may suspend or terminate it and delete associated data and content, subject to applicable law.
+* **Global Access:** The Services are offered globally, but availability and processing may vary based on the laws that apply where you are located. You are responsible for using the Services only where lawful.
 
 ## 6. Your Rights and Choices
 
 Depending on your jurisdiction (e.g., GDPR in Europe, CCPA in California), you have the right to:
 * **Access** the personal data we hold about you.
-* **Delete** your account and personal data.
+* **Request deletion** of your account or personal data.
 * **Correct** inaccurate information in your profile.
 * **Unlink** third-party social media accounts from your profile at any time.
 
-To exercise any of these rights, please contact us at support@meisaku.art.
+The platform does not currently provide automatic account deletion or a bulk export of personal data. To request the correction or removal of specific information, or to ask about the availability of account deletion, please contact us at support@meisaku.art. We will process requests subject to applicable law and technical limitations.
+
+We may retain limited information where reasonably necessary for security, fraud prevention, legal compliance, dispute resolution, or enforcement of these Terms. We may also need to preserve certain records even after account deletion.
 
 ## 7. Data Security
 
